@@ -10,7 +10,7 @@
 
 ## 🚀 Демо
 
-**Веб-версия:** [https://delicate-begonia-cf1fea.netlify.app/](https://delicate-begonia-cf1fea.netlify.app/)
+**Веб-версия:** [https://gitmoment.netlify.app/](git)
 
 **APK:** Скачать последнюю версию
 
