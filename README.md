@@ -1,41 +1,36 @@
 # gitmoment
 
-Мощная социальная сеть для обмена моментами жизни.
+A simple, ad-free social network. Share photos, follow friends, and stay connected.
 
+## Download
 
+**Android APK:** [Download](https://github.com/bro732965-oss/gitmoment/releases)
 
-## 📱 О проекте
+**Web version:** [Open](https://gitmoment.netlify.app/)
 
-**gitmoment** — полноценная социальная сеть с реальным бэкендом. Пользователи могут публиковать фото, подписываться друг на друга, ставить лайки и комментировать. Всё работает на настоящем сервере — никаких имитаций.
+## Features
 
-## 🚀 Демо
+- 📸 Share photos
+- 👥 Follow people
+- 💬 Comment on posts
+- 🔍 Find users/posts
 
-**Веб-версия:** [git](https://gitmoment.netlify.app/)
+## Requirements
 
-**APK:** Скачать последнюю версию
+- Android 5.0 or higher
+- Internet connection
 
-## 🛠️ Технологии
+## Installation
 
-| Технология | Назначение |
-|------------|------------|
-| **HTML + CSS + JS** | Фронтенд |
-| **Backendless** | База данных, аутентификация |
-| **ImgBB** | Хостинг изображений |
-| **Pexels API** | Публичная библиотека фото |
-| **Netlify** | Хостинг фронтенда |
-| **Android WebView** | APK обёртка |
+1. Download the APK
+2. Open the file
+3. Allow installation from unknown sources
+4. Launch the app
 
-## ✨ Возможности
+## Support
 
-- 🔐 Регистрация и вход (реальный бэкенд)
-- 📸 Публикация фото (автосжатие до 800px)
-- ❤️  комментарии в реальном времени
-- 👥 Подписки (follow/unfollow)
-- 🔍 Поиск пользователей, постов и фото
-- 🖼️ Автоподгрузка Pexels в ленту
-- ⚙️ Смена пароля
-- 📱 Адаптивный дизайн
-- 📲 Работает как APK на Android
-- 🎨 Эффект "живой жидкости" на фоне
+Email: **arionasupport@gmail.com**
 
-## 📊 Архитектура
+## License
+
+Free to use
