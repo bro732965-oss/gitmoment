@@ -10,7 +10,7 @@
 
 ## 🚀 Демо
 
-**Веб-версия:** [https://gitmoment.netlify.app/](git)
+**Веб-версия:** [git](https://gitmoment.netlify.app/)
 
 **APK:** Скачать последнюю версию
 
