@@ -4,7 +4,7 @@ A simple, ad-free social network. Share photos, follow friends, and stay connect
 
 ## Download
 
-**Android APK:** [Download](https://github.com/bro732965-oss/gitmoment/releases)
+**Android APK:** [Download](https://github.com/bro732965-oss/gitmoment/gitmoment_1.apk)
 
 **Web version:** [Open](https://gitmoment.netlify.app/)
 
