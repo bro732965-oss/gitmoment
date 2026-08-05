@@ -2,7 +2,7 @@
 
 Мощная социальная сеть для обмена моментами жизни.
 
-![gitmoment preview](https://share.google/tGumnhY4czgETsM95)
+![https://share.google/tGumnhY4czgETsM95](https://share.google/tGumnhY4czgETsM95)
 
 ## 📱 О проекте
 
