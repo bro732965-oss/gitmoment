@@ -4,7 +4,7 @@ A simple, ad-free social network. Share photos, follow friends, and stay connect
 
 ## Download
 
-**Android APK:** [Download](gitmoment.apk)
+**Android APK:**  (https://img.shields.io/badge/Open_gitgot-3DDC84?style=for-the-badge&logo=android&logoColor=white)](gitmoment.apk)
 **Web version:** [![Open gitgot](https://img.shields.io/badge/web_gitgot-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white)](https://gitchemist.netlify.app)
 ## Features
 
